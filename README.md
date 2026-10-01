@@ -1,45 +1,39 @@
 ## 🧩 Projects by Domain
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 📱 App Development
+**📱 App Development**
+
 [Medilink](https://github.com/Pranay-Pandurang-Patil/medilink) ·
 [Weatherly](https://github.com/Pranay-Pandurang-Patil/Weatherly)
 
-### 🛡️ Cybersecurity
-[CyberSec Toolkit](https://github.com/Pranay-Pandurang-Patil/CyberSec-Toolkit) ·
-[NetRecon](https://github.com/Pranay-Pandurang-Patil/NetRecon)
+<br>
 
-### 🌐 Networking & Backend
-[CipherChat](https://github.com/Pranay-Pandurang-Patil/CipherChat)
+**🛡️ Cybersecurity**
 
-### 💻 Systems & OS
-[Operating Systems Projects](https://github.com/Pranay-Pandurang-Patil/operating-systems-projects)
-
-### 🗄️ Database
-[Python Database Project](https://github.com/Pranay-Pandurang-Patil/Python-Database-project)
+[CyberSec Toolkit](https://github.com/Pranay-Pandurang-Patil/CyberSec-Toolkit)
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🤖 AI / Computer Vision
+**🌐 Networking & Backend**
+
+[CipherChat](https://github.com/Pranay-Pandurang-Patil/CipherChat)
+
+<br>
+
+**🤖 Computer Vision**
+
 [OpenCV AI Fire & Smoking Detection](https://github.com/Pranay-Pandurang-Patil/OpenCV-AI-Fire-Smoking-Detection)
 
-### 📊 Data Science & ML
-[Customer Churn Prediction](https://github.com/Pranay-Pandurang-Patil/customer-churn-prediction) ·
-[AIgnition Marketing Forecast](https://github.com/Pranay-Pandurang-Patil/AIgnition-Marketing-Forecast)
+<br>
 
-### 🖼️ Image Processing
-[Medical Image Analytics](https://github.com/Pranay-Pandurang-Patil/medical-image-analytics)
+**🗄️ Database**
 
-### 📰 Data / Information Systems
-[NewsSense](https://github.com/Pranay-Pandurang-Patil/NewsSense)
-
-### 🧬 3D / Web
-[Anatomy3D](https://github.com/Pranay-Pandurang-Patil/Anatomy3D)
+[Python Database Project](https://github.com/Pranay-Pandurang-Patil/Python-Database-project)
 
 </td>
 </tr>
