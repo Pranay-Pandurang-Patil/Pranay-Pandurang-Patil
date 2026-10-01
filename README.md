@@ -6,17 +6,35 @@
 
 ## 🧩 Projects by Domain
 
-**📱 App Development:**  
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📱 App Development**  
 [Medilink](https://github.com/Pranay-Pandurang-Patil/medilink) · [Weatherly](https://github.com/Pranay-Pandurang-Patil/Weatherly)
 
-**🛡️ Cybersecurity:**  
+<br>
+
+**🛡️ Cybersecurity**  
 [CyberSec Toolkit](https://github.com/Pranay-Pandurang-Patil/CyberSec-Toolkit)
 
-**🌐 Networking & Backend:**  
+<br>
+
+**🌐 Networking & Backend**  
 [CipherChat](https://github.com/Pranay-Pandurang-Patil/CipherChat)
 
-**🤖 Computer Vision:**  
+</td>
+
+<td width="50%" valign="top">
+
+**🤖 Computer Vision**  
 [OpenCV AI Fire & Smoking Detection](https://github.com/Pranay-Pandurang-Patil/OpenCV-AI-Fire-Smoking-Detection)
 
-**🗄️ Database:**  
+<br>
+
+**🗄️ Database**  
 [Python Database Project](https://github.com/Pranay-Pandurang-Patil/Python-Database-project)
+
+</td>
+</tr>
+</table>
