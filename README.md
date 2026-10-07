@@ -32,7 +32,13 @@
   <img src="https://img.shields.io/badge/CipherChat-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="CipherChat" />
 </a>
 
-### 🤖 Computer Vision
+### 🤖 AI / Data Science
+
+<a href="https://github.com/Pranay-Pandurang-Patil/AIgnition-Marketing-Forecast">
+  <img src="https://img.shields.io/badge/AIgnition%20Marketing%20Forecast-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="AIgnition Marketing Forecast" />
+</a>
+
+### 👁️ Computer Vision
 
 <a href="https://github.com/Pranay-Pandurang-Patil/OpenCV-AI-Fire-Smoking-Detection">
   <img src="https://img.shields.io/badge/OpenCV%20AI%20Fire%20%26%20Smoking%20Detection-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV AI Fire & Smoking Detection" />
