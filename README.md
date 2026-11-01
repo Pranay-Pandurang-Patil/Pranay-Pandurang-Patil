@@ -12,6 +12,22 @@
 
 ---
 
+## 🐟 My GitHub Koi
+
+<p align="center">
+  <img
+    src="koi/koi.gif"
+    width="256"
+    alt="Animated pixel-art koi generated from my GitHub activity"
+  />
+</p>
+
+<p align="center">
+  <i>A little reflection of my coding journey, one contribution at a time.</i>
+</p>
+
+---
+
 ## 🧩 Projects by Domain
 
 ### 📱 App Development
